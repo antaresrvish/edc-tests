@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "moduleResolution": "node",
+    "removeComments": false,
+    "sourceMap": true,
+    "module": "ESNext",
+    "target": "ES2023",
+    "outDir": "dist"
+  }
+}
